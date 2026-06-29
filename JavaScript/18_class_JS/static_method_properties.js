@@ -2,8 +2,6 @@
 
 
 
-
-
 class Person{
     constructor(first_name,last_name,age){
         this.first_name =first_name;
